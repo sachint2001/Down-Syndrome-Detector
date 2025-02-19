@@ -1,5 +1,8 @@
+# Down Syndrome Detector
+
 This project provides a machine learning service for detecting Down syndrome from facial images, utilizing a Flask-ML server and an ONNX model.
 
+This project uses a pre trained model from the following repository: https://github.com/Mitali-Juvekar/Project1_596E. The model has been modified to work with ONNX runtime.
 
 ## Setup Instructions ##
 
